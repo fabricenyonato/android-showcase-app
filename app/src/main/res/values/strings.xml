@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Roots Technologies</string>
+    <string name="onboardibg_button_text">Enter</string>
+    <string name="onboardibg_text">Suspendisse vitae maximus est, quis posuere odio. Aliquam ut erat non diam hendrerit suscipit vitae a mauris</string>
+    <string name="navigation_drawer_open">o</string>
+    <string name="navigation_drawer_close">c</string>
+    <string name="outsourcing">Outsourcing</string>
+    <string name="erp">ERP</string>
+    <string name="it_security">IT security</string>
+    <string name="application_development">Application development</string>
+    <string name="promotions">Promotions</string>
+    <string name="contacts">Contacts</string>
+    <string name="our_services">Our services</string>
+
+    <string-array name="our_services_content_text">
+        <item>Phasellus in lacinia est, sit amet placerat felis. Donec ac dignissim justo, vitae rhoncus nibh.</item>
+        <item>Donec lobortis ut tellus ac ultrices. Mauris facilisis arcu sit amet tellus feugiat efficitur.</item>
+        <item>Nullam dapibus ipsum mi, nec commodo dolor imperdiet non. Integer vel lacus ac purus fermentum faucibus.</item>
+        <item>Morbi convallis, dolor ut aliquam varius, ligula nisl semper turpis, eu volutpat justo turpis nec ex.</item>
+    </string-array>
+</resources>

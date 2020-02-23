@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/AppTheme.TextStyle</item>
+        <item name="android:fontFamily">@font/metropolis_medium</item>
+    </style>
+
+    <style name="AppTheme.TextStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/metropolis_medium</item>
+    </style>
+
+<!--    <style name="AppTheme.TextViewStyle" parent="">-->
+<!--        <item name="android:fontFamily">@font/metropolis_medium</item>-->
+<!--    </style>-->
+</resources>

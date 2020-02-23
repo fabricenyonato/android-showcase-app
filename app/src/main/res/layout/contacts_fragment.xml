@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".controller.fragment.ContactsFragment"
+    android:orientation="vertical">
+
+    <ws.roots.showcase.view.md.MDListItem
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="Phone number"
+        app:subtitle="+228 223344222"
+        app:image="@drawable/ic_phone_black_24dp" />
+
+    <ws.roots.showcase.view.md.MDListItem
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="Email"
+        app:subtitle="contatc@roots-technologies.com"
+        app:image="@drawable/ic_email_black_24dp" />
+
+    <ws.roots.showcase.view.md.MDListItem
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="Web site"
+        app:subtitle="roots.ws"
+        app:image="@drawable/ic_web_black_24dp" />
+
+</LinearLayout>
